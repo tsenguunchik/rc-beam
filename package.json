@@ -1,0 +1,24 @@
+{
+  "name": "rc-beam",
+  "version": "1.0.0",
+  "description": "Analyzes the moment capacity of reinforced concrete beam with a given section details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --coverage test/index.js",
+    "posttest": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsenguunchik/rc-beam.git"
+  },
+  "keywords": [],
+  "author": "Tsenguun Tsogbadrakh",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/tsenguunchik/rc-beam/issues"
+  },
+  "homepage": "https://github.com/tsenguunchik/rc-beam#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.0"
+  }
+}
